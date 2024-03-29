@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dwg-full-text-search/static/css/main.3caf816d.css",
+    "main.js": "/dwg-full-text-search/static/js/main.66a0f960.js",
+    "index.html": "/dwg-full-text-search/index.html",
+    "main.3caf816d.css.map": "/dwg-full-text-search/static/css/main.3caf816d.css.map",
+    "main.66a0f960.js.map": "/dwg-full-text-search/static/js/main.66a0f960.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3caf816d.css",
+    "static/js/main.66a0f960.js"
+  ]
+}
